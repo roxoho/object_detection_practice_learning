@@ -1,4 +1,4 @@
-import os
+"""import os
 from ultralytics import YOLO
 import cv2
 
@@ -44,3 +44,4 @@ cv2.imshow('Original Image', cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 cv2.imshow('Output Image', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+"""
