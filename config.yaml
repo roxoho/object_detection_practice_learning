@@ -1,0 +1,9 @@
+
+path: "D:/projects/new/dataset"
+train: images
+val: images
+
+names:
+  0: apple
+  1: banana
+  2: orange
